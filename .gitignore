@@ -1,0 +1,21 @@
+# Compilados
+out/
+bin/
+build/
+target/
+*.class
+
+# Dados persistidos localmente (gerados em tempo de execução)
+*.dat
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
